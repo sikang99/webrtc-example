@@ -8,4 +8,5 @@
     1. prepare to use, built it.
     2. start a web server.
     3. start a signal server.
-    4. call a someone.
+    4. login yourself with a name
+    5. call a someone.
