@@ -27,6 +27,7 @@ run r:
 
 run-client rc:
 	xdg-open http://localhost:8080
+	#simplehttpserver
 
 run-server rs:
 	#node server.js
