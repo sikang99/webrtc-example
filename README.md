@@ -5,8 +5,8 @@
 
 ### Usage
 - Do it as follows to test the example
-    1. prepare to use, built it.
-    2. start a web server.
-    3. start a signal server.
+    1. prepare to use, built it. `$ make build`
+    2. start a web server. 
+    3. start a signal server. `$ make run-server`
     4. login yourself with a name
     5. call a someone.
