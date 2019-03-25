@@ -8,5 +8,5 @@
     1. prepare to use, built it. `$ make build`
     2. start a web server. 
     3. start a signal server. `$ make run-server`
-    4. login yourself with a name
+    4. login yourself with a name in the web page.
     5. call a someone.
