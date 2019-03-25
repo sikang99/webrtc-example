@@ -56,7 +56,7 @@ git-login gl:
 	git config credential.helper store
 
 git-tag gt:
-	git tag v0.0.3
+	git tag v1.0.0
 	git push --tags
 
 git-status gs:
